@@ -1,3 +1,3 @@
 # My Google Colab Notebooks
 
-Google Colab notebooks. 
+Saved Google Colab notebooks for when I'm trying to quickly access and use data. 📒 
